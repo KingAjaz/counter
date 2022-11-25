@@ -1,0 +1,32 @@
+body{
+    background-image: url("apparel.png") ;
+   height: 100vh;
+}
+.king{
+    text-align: center;
+    margin-top: -4px;
+    color: white;
+    border-bottom: 2px solid;
+    margin-bottom: 40px;
+}
+
+.counterapp{
+   max-width: 60%;
+   margin: auto;
+   border: 2px solid white;
+   border-radius: 10px;
+   text-align: center;
+}
+span{
+    color: red;
+}
+#savebutton{
+    background-color: red;
+    color: white;
+}
+margin-left: 35%;
+margin-right: 35%;
+padding: 10px;
+border: 2px solid white;
+border-radius: 10px;
+text-align: center;
