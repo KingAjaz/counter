@@ -1,6 +1,10 @@
-body{
+/* body{
     background-image: url("apparel.png") ;
    height: 100vh;
+} */
+body{
+    background-color: #1b244a;
+    height: 100vh;
 }
 .king{
     text-align: center;
@@ -30,10 +34,7 @@ padding: 10px;
 border: 2px solid white;
 border-radius: 10px;
 text-align: center;
-body{
-    background-color: #1b244a;
-    height: 100vh;
-}
+
 #score{
     background-color: #080001;
     color: white;
