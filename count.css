@@ -20,6 +20,7 @@ body{
    border: 2px solid white;
    border-radius: 10px;
    text-align: center;
+   color: white;
 }
 span{
     color: red;
